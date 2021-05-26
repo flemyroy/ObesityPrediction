@@ -1,2 +1,2 @@
 # ObesityPrediction
-A dataset was analyzed and classification algorithm was implemented to predict.
+A dataset was analyzed and classification algorithms were implemented.
